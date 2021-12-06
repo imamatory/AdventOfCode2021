@@ -1,5 +1,4 @@
-* Advent of Code 2021
-** About
- Here you can see my solutions for [[https://adventofcode.com/2021][AdventOfCode'21]] puzzles.
-** Used tech
- ruby
+# Advent of Code 2021
+Here you can see my solutions for [AdventOfCode'21](https://adventofcode.com/2021) puzzles.
+## Used tech
+ruby
